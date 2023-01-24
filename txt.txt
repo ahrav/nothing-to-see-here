@@ -1,2 +1,4 @@
 Hello, World!
 Bye, world!
+42
+42
